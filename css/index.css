@@ -72,7 +72,7 @@ body {
   
   .body::before {
     content: "";
-    background-image: url('../Images/escudo.png'); 
+    background-image: url('../images/escudo.png'); 
     background-size: 150px;
     background-repeat: no-repeat;
     background-position: center;
